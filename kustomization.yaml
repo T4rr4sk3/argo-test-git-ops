@@ -7,4 +7,6 @@ resources:
   #- config/postgress.yaml
 
   - app/rabbitmq/deploy.yaml
+  - app/rabbitmq/service.yaml
+
   #- app/postgress/deploy.yaml
